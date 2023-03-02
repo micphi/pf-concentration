@@ -1,4 +1,4 @@
-import suitColors from "./suitColors";
+import suitColors from "../helpers/suitColors";
 
 /**
  * Class representation of a playing card.

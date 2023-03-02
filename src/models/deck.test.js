@@ -1,5 +1,5 @@
-import { Deck } from "./Deck";
-import { Card } from "./Card";
+import { Deck } from "./deck";
+import { Card } from "./card";
 
 describe("Deck class tests", () => {
     let deck;

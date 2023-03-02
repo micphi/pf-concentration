@@ -1,6 +1,6 @@
 import {useState} from "react";
 import GameCard from "./GameCard";
-import {Deck} from "./helpers/deck";
+import {Deck} from "./models/deck";
 import ReactConfetti from "react-confetti";
 
 /**

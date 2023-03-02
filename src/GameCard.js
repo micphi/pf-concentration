@@ -18,7 +18,7 @@ export default function GameCard({ card, onClick, isFlipped, isMatched }) {
                 isFlipped || isMatched ?
                     <img src={card.cardImagePath} alt={`${value} of ${suit}`} />
                 :
-                    <img src={`/img/cards/back.png`} alt="Mystery Card" />
+                    <img src={`/img/cards/back.png`} alt="Mystery Card" role="button" />
                 }
             </div>
         </div>

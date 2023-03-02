@@ -1,4 +1,4 @@
-import suitColors from "./suitColors";
+import suitColors from "../helpers/suitColors";
 import { Card } from "./card";
 
 describe("Card class tests", () => {
